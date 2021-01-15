@@ -1,0 +1,15 @@
+.NavBar {
+    padding: 2rem;
+    background-color: aquamarine;
+}
+
+.NavBar a {
+    margin: 2rem;
+    color: rgb(225, 135, 71);
+    font-size: 2rem;
+    font-weight: 5rem;
+}
+
+.NavBar a.active {
+    color: rgb(158, 98, 52);
+}

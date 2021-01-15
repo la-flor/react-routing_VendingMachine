@@ -1,0 +1,19 @@
+.Home {
+    margin: 50px;
+}
+
+img {
+    z-index: -1;
+}
+
+.Home-links {
+    position: absolute;
+    left: 150px;
+    top: 250px;
+}
+
+.Home-links a {
+    color: black;
+    font-weight: 3rem;
+    font-size: 2rem;
+}
